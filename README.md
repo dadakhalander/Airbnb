@@ -1,0 +1,1 @@
+Advanced analytics  that uncovers patterns and trends in Airbnb listings to support smarter pricing, property investment, and location-based decisions. By leveraging machine learning and interactive data visualizations, the platform analyzes factors such as location, amenities, reviews, and seasonal trends to offer actionable insights for hosts, investors, and analysts.
